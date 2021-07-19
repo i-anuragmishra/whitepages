@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # whitepage
 
 A new Flutter project.
@@ -15,3 +16,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 it is app for your whitew pages
+=======
+# whitepages
+A project .
+>>>>>>> a8cc0ab (Initial commit)
